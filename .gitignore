@@ -1,0 +1,7 @@
+# Ignore everything
+*
+flask
+
+# Don't ignore the following:
+!.gitignore
+!app.py
